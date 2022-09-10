@@ -2,6 +2,7 @@
 /**
  * main: The Entry Point
  *
+ * return: 0
  */
 int main(void)
 {
